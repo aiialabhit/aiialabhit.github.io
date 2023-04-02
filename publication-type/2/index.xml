@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | AIIA Lab</title>
+    <link>https://aiialabhit.github.io/publication-type/2/</link>
+      <atom:link href="https://aiialabhit.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aiialabhit.github.io/media/icon_hu1d13e086bf4b0bfb0344037d22fe401a_414309_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://aiialabhit.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Asymmetric Loss Functions for Noise-Tolerant Learning: Theory and Applications</title>
+      <link>https://aiialabhit.github.io/publication/10039708/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/10039708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Depth Maps Imaging via Attention-Based Hierarchical Multi-Modal Fusion</title>
+      <link>https://aiialabhit.github.io/publication/9642435/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/9642435/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
