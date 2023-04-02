@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenyang Wang | AIIA Lab</title>
+    <link>https://aiialabhit.github.io/author/chenyang-wang/</link>
+      <atom:link href="https://aiialabhit.github.io/author/chenyang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenyang Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aiialabhit.github.io/media/icon_hu1d13e086bf4b0bfb0344037d22fe401a_414309_512x512_fill_lanczos_center_3.png</url>
+      <title>Chenyang Wang</title>
+      <link>https://aiialabhit.github.io/author/chenyang-wang/</link>
+    </image>
+    
+    <item>
+      <title>ReSmooth: Detecting and Utilizing OOD Samples When Training With Data Augmentation</title>
+      <link>https://aiialabhit.github.io/publication/wang-2022-resmooth/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/wang-2022-resmooth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

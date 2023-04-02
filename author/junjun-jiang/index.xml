@@ -5,12 +5,20 @@
     <link>https://aiialabhit.github.io/author/junjun-jiang/</link>
       <atom:link href="https://aiialabhit.github.io/author/junjun-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Junjun Jiang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aiialabhit.github.io/media/icon_hu1d13e086bf4b0bfb0344037d22fe401a_414309_512x512_fill_lanczos_center_3.png</url>
       <title>Junjun Jiang</title>
       <link>https://aiialabhit.github.io/author/junjun-jiang/</link>
     </image>
+    
+    <item>
+      <title>Guided Depth Map Super-Resolution: A Survey</title>
+      <link>https://aiialabhit.github.io/publication/10-1145-3584860/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/10-1145-3584860/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asymmetric Loss Functions for Noise-Tolerant Learning: Theory and Applications</title>
@@ -25,6 +33,14 @@
       <link>https://aiialabhit.github.io/publication/9642435/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://aiialabhit.github.io/publication/9642435/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReSmooth: Detecting and Utilizing OOD Samples When Training With Data Augmentation</title>
+      <link>https://aiialabhit.github.io/publication/wang-2022-resmooth/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/wang-2022-resmooth/</guid>
       <description></description>
     </item>
     

@@ -28,6 +28,14 @@
     </item>
     
     <item>
+      <title>Guided Depth Map Super-Resolution: A Survey</title>
+      <link>https://aiialabhit.github.io/publication/10-1145-3584860/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/10-1145-3584860/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asymmetric Loss Functions for Noise-Tolerant Learning: Theory and Applications</title>
       <link>https://aiialabhit.github.io/publication/10039708/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -40,6 +48,14 @@
       <link>https://aiialabhit.github.io/publication/9642435/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://aiialabhit.github.io/publication/9642435/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReSmooth: Detecting and Utilizing OOD Samples When Training With Data Augmentation</title>
+      <link>https://aiialabhit.github.io/publication/wang-2022-resmooth/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/wang-2022-resmooth/</guid>
       <description></description>
     </item>
     
