@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenyu Li | AIIA Lab</title>
+    <link>https://aiialabhit.github.io/author/zhenyu-li/</link>
+      <atom:link href="https://aiialabhit.github.io/author/zhenyu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenyu Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aiialabhit.github.io/media/icon_hu1d13e086bf4b0bfb0344037d22fe401a_414309_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhenyu Li</title>
+      <link>https://aiialabhit.github.io/author/zhenyu-li/</link>
+    </image>
+    
+    <item>
+      <title>Simipu: Simple 2d image and 3d point cloud unsupervised pre-training for spatial-aware visual representations</title>
+      <link>https://aiialabhit.github.io/publication/li-2022-simipu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/li-2022-simipu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

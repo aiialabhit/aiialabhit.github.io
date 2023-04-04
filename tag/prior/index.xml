@@ -14,9 +14,33 @@
     
     <item>
       <title>Guided Depth Map Super-Resolution: A Survey</title>
-      <link>https://aiialabhit.github.io/publication/10-1145-3584860/</link>
+      <link>https://aiialabhit.github.io/publication/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aiialabhit.github.io/publication/10-1145-3584860/</guid>
+      <guid>https://aiialabhit.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Surface Descriptor for Geometry and Feature Preserved Mesh Denoising</title>
+      <link>https://aiialabhit.github.io/publication/zhao-liu-jiang-zhao-li-ji-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/zhao-liu-jiang-zhao-li-ji-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simipu: Simple 2d image and 3d point cloud unsupervised pre-training for spatial-aware visual representations</title>
+      <link>https://aiialabhit.github.io/publication/li-2022-simipu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/li-2022-simipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards end-to-end image compression and analysis with transformers</title>
+      <link>https://aiialabhit.github.io/publication/bai-2022-towards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aiialabhit.github.io/publication/bai-2022-towards/</guid>
       <description></description>
     </item>
     
